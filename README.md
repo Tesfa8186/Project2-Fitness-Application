@@ -4,7 +4,11 @@
 
 The SwoleMate & BuffBae application is an easy-to-use fitness tracker for the users. It records your day-to-day physical activities. Providing a variety of visuals to display your progress. As well as the most popular workout trends on our site. It's secure and compatible with various mobile devices.
 
-## Usage
+### User Story
+
+As a fitness newbie I want a fitness tracker that has a trending workouts tab for inspiration, tracks progress accurately, and displays progress on a chart for easy tracking. The tracker should make it easy to input workout data and automatically calculate important metrics like time completed. The fitness tracker should also help users stay motivated and connected with other fitness enthusiasts in the community.
+
+# Usage
 
 When you visit the site, you are given options either to login or sign up.
 
@@ -28,6 +32,8 @@ The following image shows the application's usage, appearance and functionality:
 
 ## Installation
 
+- node server.js OR npm start on your terminal then `http://localhost:3001/login`
+
 Chart.js <br />
 Bootstrap <br />
 Mysql2 <br />
@@ -36,7 +42,7 @@ Handlebars <br />
 Moment <br />
 Express-session <br />
 
-## Contribution
+## Contribution & Credits = Team work
 
 https://github.com/zhou7cathy
 
@@ -46,20 +52,12 @@ https://github.com/Tesfa8186
 
 https://github.com/sammy8078
 
-## Credits
-
-https://www.npmjs.com/package/chart.js?activeTab=readme
-
 ## Links
 
 - [The URL of the functional deployed application](https://gentle-garden-16426.herokuapp.com/login)
 
-- [The URL of GitHub Repository](https://github.com/Focrult/Fitness-Application)
+- [The URL of GitHub Repository](https://github.com/Tesfa8186/Project2-Fitness-Application)
 
 ## License
 
 - Covered by ISC license [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-
-## User Story
-
-- As a fitness newbie I want a fitness tracker that has a trending workouts tab for inspiration, tracks progress accurately, and displays progress on a chart for easy tracking. The tracker should make it easy to input workout data and automatically calculate important metrics like time completed. The fitness tracker should also help users stay motivated and connected with other fitness enthusiasts in the community
