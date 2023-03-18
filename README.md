@@ -25,10 +25,10 @@ When you press the track activity button, you will be presented with a list of e
 When you select the navigation for Matrix, then you will presented with a bar graph on the left showing your progress of the week. Starting from Sunday to saturday, showing your total exercises time on each day. On the right side there is a top 3 workouts of the week trends bar, which showing the top three exercise that all users spend most of their times.
 
 The following image shows the application's usage, appearance and functionality:
-![alt text](/public/img/login-page.png)
-![alt text](/public/img/account-page.png)
-![alt text](/public/img/workout-page.png)
-![alt text](/public/img/matrix-page.png)
+![alt text](./assets/img/login-page.png)
+![alt text](./assets/img/account-page.png)
+![alt text](./assets/img/workout-page.png)
+![alt text](./assets/img/matrix-page.png)
 
 ## Installation
 
