@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Focrult/Fitness-Application.git"
+    "url": "git+https://github.com/Tesfa8186/Fitness-Application.git"
   },
   "author": "project2 team",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Focrult/Fitness-Application/issues"
+    "url": "https://github.com/Tesfa8186/Fitness-Application/issues"
   },
-  "homepage": "https://github.com/Focrult/Fitness-Application#readme",
+  "homepage": "https://github.com/Tesfa8186/Fitness-Application#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "chart.js": "^4.2.1",
