@@ -12,7 +12,7 @@ As a fitness newbie I want a fitness tracker that has a trending workouts tab fo
 
 When you visit the site, you are given options either to login or sign up.
 
-When you click on the sign up,then you will prompted to enter your username, email and password. After you press the sign up button you will be direct to the question page to select your gender and enter your height and weight.
+When you click on the sign up,then you will prompted to enter your username, email and password. After you press the sign up button you will be direct to the question page to select your gender and enter your weight.
 
 When you finish entering the details and pressed submit button, then you could access the webpage. If you are existing user you can just enter email and password to log in, then you could access the webpage.
 
