@@ -54,7 +54,7 @@ https://github.com/sammy8078
 
 ## Links
 
-- [The URL of the functional deployed application](https://floating-atoll-21107.herokuapp.com/login)
+- [The URL of the functional deployed application](https://gentle-garden-16426.herokuapp.com/login)
 
 - [The URL of GitHub Repository](https://github.com/Tesfa8186/Project2-Fitness-Application)
 
